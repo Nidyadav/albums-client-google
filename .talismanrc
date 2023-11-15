@@ -1,0 +1,11 @@
+fileignoreconfig:
+- filename: .mvn/wrapper/MavenWrapperDownloader.java
+  checksum: f498468bea9fefc2c4f3579c4fff49e6ee7fa92865ab954c67a2b62d32a303fd
+- filename: src/main/resources/application-okta.properties
+  checksum: 1589e2f6423cc4e7da5644756fb33eddd0a9cf1444fb43e6532a8391faee5d51
+fileignoreconfig:
+- filename: mvnw
+  checksum: 611c428c8f23170f6e7c07fe78c93f88a0f9389bc6d6fafb99730faf0714abf1
+- filename: src/main/resources/static/css/bootstrap.min.css
+  checksum: 9ee1499030377d3d92fc793fbd3396c3dc10796d24a9aaba905488fae9bc405e
+version: ""
